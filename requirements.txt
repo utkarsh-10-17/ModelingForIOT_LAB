@@ -1,0 +1,5 @@
+# requirements.txt
+
+AutoCAD 2018 or newer (or compatible CAD software)
+(Optional) AutoCAD Viewer or free DWG viewer
+(Optional) PDF reader for exported diagrams
