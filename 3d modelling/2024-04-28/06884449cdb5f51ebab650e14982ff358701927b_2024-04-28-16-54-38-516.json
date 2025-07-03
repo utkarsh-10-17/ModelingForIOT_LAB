@@ -1,0 +1,30 @@
+[
+  {
+    "Datetime": "1714323276",
+    "DstMetadata": "{\"DwgVersion\":\"AutoCAD 2018\"}",
+    "DstPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\Labtask4.dwg",
+    "DstType": "dwg",
+    "DstVersionId": "{A84E01A9-53C9-2546-B557-F99240B12A63}",
+    "Op": "SAVE",
+    "Product": "AutoCAD 2024",
+    "SrcMetadata": "{\"DwgVersion\":\"AutoCAD 2018\",\"dbmod\":21}",
+    "SrcPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\Labtask4.dwg",
+    "SrcType": "dwg",
+    "SrcVersionId": "{8E83BCF9-2444-FA48-BA0B-D19350D2EA7E}",
+    "Username": "Utkarsh ghore"
+  },
+  {
+    "Datetime": "1714322951",
+    "DstMetadata": "{\"DwgVersion\":\"AutoCAD 2018\"}",
+    "DstPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\labtask4(b).dwg",
+    "DstType": "dwg",
+    "DstVersionId": "{3DCE9D85-2A5B-5C4B-BD03-1F6C9FCCDDF8}",
+    "Op": "SAVE",
+    "Product": "AutoCAD 2024",
+    "SrcMetadata": "{\"DwgVersion\":\"AutoCAD 2018\",\"dbmod\":16}",
+    "SrcPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\labtask4(b).dwg",
+    "SrcType": "dwg",
+    "SrcVersionId": "{C0355CD9-A5B9-3744-B197-813E7ECAE0B7}",
+    "Username": "Utkarsh ghore"
+  }
+]

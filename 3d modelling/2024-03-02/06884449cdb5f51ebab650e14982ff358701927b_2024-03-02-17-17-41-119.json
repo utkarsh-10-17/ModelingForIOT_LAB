@@ -1,0 +1,16 @@
+[
+  {
+    "Datetime": "1709399859",
+    "DstMetadata": "{\"DwgVersion\":\"AutoCAD 2018\"}",
+    "DstPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\Drawing1.dwg",
+    "DstType": "dwg",
+    "DstVersionId": "{03A8C707-A81E-3647-99ED-B5932AC3D209}",
+    "Op": "SAVE",
+    "Product": "AutoCAD 2024",
+    "SrcMetadata": "{\"DwgVersion\":\"AutoCAD 2018\",\"dbmod\":29}",
+    "SrcPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\Drawing1.dwg",
+    "SrcType": "dwg",
+    "SrcVersionId": "{577B5454-85C9-5947-8ACB-E54CDBE3AC8C}",
+    "Username": "Utkarsh ghore"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Datetime": "1710752005",
+    "DstMetadata": "{\"DwgVersion\":\"AutoCAD 2018\"}",
+    "DstPath": "C:\\Academics\\sem4\\MDI\\AutocadLab\\Labtask4.dwg",
+    "DstType": "dwg",
+    "DstVersionId": "{21B9461B-4469-514C-A76B-CD9FA3E283E9}",
+    "Op": "NEW",
+    "Product": "AutoCAD 2024",
+    "SrcMetadata": "{\"dbmod\":17}",
+    "SrcPath": "C:\\Users\\utkar\\AppData\\Local\\Autodesk\\AutoCAD 2024\\R24.3\\enu\\Template\\acadiso.dwt",
+    "SrcType": "dwg",
+    "SrcVersionId": "",
+    "Username": "Utkarsh ghore"
+  }
+]
